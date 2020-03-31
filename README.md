@@ -1,2 +1,1 @@
-# hdsb-bruteforce-account-hacker
-hacks 
+# hdsb-bruteforce-account-hackeBruteforce hacker that can hack into any hdsb account
